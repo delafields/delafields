@@ -1,5 +1,5 @@
-### Hello 👋
+### Hello
 
-- By day I'm a data scientist - you can see my portfolio [here](https://github.com/delafields/delafields.github.io)
-- I also like to build things, with and without code. You can see more about these projects on [my website](https://www.jfields.me/)
+- By day I'm a data scientist - [here's a portfolio](https://github.com/delafields/delafields.github.io)
+- I build things IRL and things with code -  [see my website for more](https://www.jeremyfields.xyz/)
 - You can reach me at jeremyfieldsmail@gmail.com
